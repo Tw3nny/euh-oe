@@ -1,0 +1,15 @@
+{
+    "token": "OTU3NzEyMjQ4NzExODE5MjY1.YkCxCQ.7pitnBPUlnoUWmdWJF2_7ZGVHx4",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/957714714387943449/DzNWLkpL3onnHGtpRfvg1sYwta1L5FDFpZi6uCluxMLfmw6UYCDnczIDiE6Iwj9VhYzE": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=208&size_id[]=209&catalog[]=5&brand_id[]=53&order=newest_first",
+            "salon": "bot-vinted"
+        },
+        "https://discord.com/api/webhooks/957715992375599224/oXbPa7l8QzP1QG1t9xXJZJp02_tySThoENRlSNcVId7J2XV7-jAJPXY-hc5WTmfe6GOO": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=789&catalog[]=5&order=newest_first&brand_id[]=2703",
+            "salon": "jordan"
+        }
+    }
+}
